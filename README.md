@@ -32,6 +32,6 @@ Here are some of the photos I've recovered
 
 NOTE: The photos are small so in the program execution I don't waste too much time to read/write one photo.
 
-If you wish to see all the examples, please click on the JPGs folder and select the image you wold like to see and than click on \"view raw".
+If you wish to see all the examples, please click on the JPGs folder and select the image you wold like to see.
 
 I hope you enjoyed the project as much as I did.
